@@ -1,5 +1,5 @@
 def example1() {
-  println 'Hello from example1 function'
+  println 'Hello from example1 function !'
 }
 
 def example2() {

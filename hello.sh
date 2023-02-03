@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hello les amis"
+echo "Hello c'est le script hello"

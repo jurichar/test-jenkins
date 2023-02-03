@@ -1,5 +1,5 @@
 node {
    stage('Hello World') {
-      ./hello.sh
+      sh hello.sh
    }
 }

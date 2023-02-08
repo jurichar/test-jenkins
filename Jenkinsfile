@@ -10,6 +10,6 @@ node {
   }
 
   stage('Execute') {
-    code.example1()
+    code.example2()
   }
 }
